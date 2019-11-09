@@ -1,0 +1,28 @@
+
+body{
+    margin: 0%;
+    font-family:Arial, Helvetica, sans-serif ; 
+}
+nav{
+    Font-weight:bold;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+span{
+    display: inline-block;
+    font-size: 20px;
+    width: 29%;
+}
+ul{
+    width: 70%;
+    padding: 0%;
+    list-style: none;
+    display: inline-block;
+    text-align: right;
+ 
+ }   
+ li{ 
+    justify-content:flex-start ;
+ font-family:Arial, Helvetica, sans-serif ; 
+}
